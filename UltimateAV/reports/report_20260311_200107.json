@@ -1,0 +1,22 @@
+{
+  "file_path": "C:/Users/misha/OneDrive/Робочий стіл/Among Us.url",
+  "md5": "1b4df51ed444a24c0627a12b83cc1228",
+  "sha1": "a56c9deda1b646fc06d01afb267fdfea0b8ccd3c",
+  "sha256": "fbee0aa9d62e22c78eeaa93846938e8b826b268f0d6771d88a6a3b5df501c1a9",
+  "file_type": "unknown",
+  "size": 222,
+  "entropy": 5.217358370084878,
+  "yara_matches": [
+    "Adware_Generic"
+  ],
+  "pe_info": null,
+  "elf_info": null,
+  "macho_info": null,
+  "scripts": [],
+  "office": [],
+  "pdf": [],
+  "archive": [],
+  "apk": [],
+  "suspicious_functions": [],
+  "threat_score": 10
+}

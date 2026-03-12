@@ -1,0 +1,42 @@
+======================================================================
+🔥 АНТИВІРУС - ЗВІТ ПРО АНАЛІЗ
+Час: 2026-03-11 20:01:28
+======================================================================
+
+📁 Файл: C:/Users/misha/OneDrive/Робочий стіл/AutoClicker.exe
+🔑 MD5: f6b44345e35742d37a23a3ef3e571203
+🔑 SHA1: ec56c2fef01d5aaada69a5391fbf66347b0813ad
+🔐 SHA256: 82f6b22415512ab4d542a7a0ca930e3e6981849667fd6a70f7787134e71f323e
+📦 Тип: unknown
+📏 Розмір: 151552 байт
+📊 Ентропія: 6.09
+⚠️ Рівень загрози: 269/100
+🚨 Загроза: ТАК
+
+YARA знахідки:
+  - Ransomware_Locky
+  - Adware_Generic
+
+Підозрілі функції:
+  - FreeLibrary
+  - LoadLibraryExW
+  - OutputDebugStringW
+  - FindFirstFileExW
+  - EnterCriticalSection
+  - GetFullPathNameW
+  - FindNextFileW
+  - GetCurrentProcess
+  - GetModuleHandleExW
+  - GetModuleFileNameW
+  - LeaveCriticalSection
+  - GetEnvironmentVariableW
+  - GetModuleHandleW
+  - MultiByteToWideChar
+  - GetFileAttributesExW
+  - LoadLibraryA
+  - DeleteCriticalSection
+  - WideCharToMultiByte
+  - IsWow64Process
+  - TlsFree
+
+======================================================================

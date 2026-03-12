@@ -1,0 +1,51 @@
+======================================================================
+🔥 АНТИВІРУС - ЗВІТ ПРО АНАЛІЗ
+Час: 2026-03-11 22:00:35
+======================================================================
+
+📁 Файл: C:/Users/misha/OneDrive/Робочий стіл/Calculator.exe
+🔑 MD5: f8d1fbbb89e0dc3cae3e29814f864799
+🔑 SHA1: 21cd54e594bc76b4a14f2ecab65169aa98a090a6
+🔐 SHA256: ee94afb412a5e5a10639b8168518d1846b457daace29595fb0f06d9f2ca0bcb9
+📦 Тип: unknown
+📏 Розмір: 58579229 байт
+📊 Ентропія: 8.00
+⚠️ Рівень загрози: 452/100
+🚨 Загроза: ТАК
+
+YARA знахідки:
+  - Ransomware_Locky
+  - RAT_Njrat
+  - RAT_DarkComet
+  - RAT_Quasar
+  - AntiVM_Generic
+  - Packer_UPX
+  - Packer_VMProtect
+  - Miner_Generic
+  - Adware_Generic
+  - PUP_Generic
+  - PDF_JavaScript
+
+Підозрілі функції:
+  - CreateWindowExW
+  - ShutdownBlockReasonCreate
+  - MsgWaitForMultipleObjects
+  - ShowWindow
+  - DestroyWindow
+  - RegisterClassW
+  - DefWindowProcW
+  - PeekMessageW
+  - DispatchMessageW
+  - TranslateMessage
+  - PostMessageW
+  - GetMessageW
+  - MessageBoxW
+  - MessageBoxA
+  - SystemParametersInfoW
+  - DestroyIcon
+  - SetWindowLongPtrW
+  - GetWindowLongPtrW
+  - GetClientRect
+  - InvalidateRect
+
+======================================================================
