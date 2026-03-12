@@ -65,8 +65,7 @@ To participate in programming competitions or CTF-like challenges for learning.
 To pursue a career where I can build useful and secure technology.
 
 📫 Contact
-GitHub: [link to your profile]
 
-Email: [your email]
+Email: [mishaselko9@gmail.com]
 
 I am always open to learning, new ideas, and connecting with people who share an interest in technology!
