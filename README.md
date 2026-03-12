@@ -66,6 +66,6 @@ To pursue a career where I can build useful and secure technology.
 
 📫 Contact
 
-Email: [mishaselko9@gmail.com]
+Email: [sttyuuy1@gmail.com]
 
 I am always open to learning, new ideas, and connecting with people who share an interest in technology!
